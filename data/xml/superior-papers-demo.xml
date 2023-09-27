@@ -22,7 +22,7 @@
                 </corpname>
             </repository>
             <unittitle><title>The Superior Papers</title></unittitle>
-            <unitdate normal="1850/present" unitdatetype="inclusive">Since 1850</unitdate>
+            <unitdate normal="1850/1975" unitdatetype="inclusive">1850-1975</unitdate>
         </did>
         <!-- here would be additional information like scope, bioghist, and contents lists -->
         <bioghist>This collection is a superior collection of papers for a superior organization and individual.</bioghist>
