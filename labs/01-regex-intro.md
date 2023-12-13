@@ -28,15 +28,15 @@ Regex: /978-?\d{10}/
 
 *How many occurrences of computer (singular, plural, upper-lower)?*
 
-Answer: there are 5 instances of the word computer, no plural.
+Answer: there are 7 instances of the word computer, no plural.
 
 Regex: /[Cc]omputers?/
 
 Are there any web addresses in the text? How many?  
 
-Answer: Yes. There is one web address. 
+Answer: Yes. There are two web addresses. 
 
-Regex: /https?:\/\/\w{3}\.[\w-]+\.\w{3}\//
+Regex: /https?:\/\/\w{3,4}\.[\w-]+\.\w{3}\//
 
 Note: there may be other variations that will match this pattern. 
 
