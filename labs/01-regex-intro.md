@@ -28,9 +28,9 @@ Regex: /978-?\d{10}/
 
 *How many occurrences of computer (singular, plural, upper-lower)?*
 
-Answer: there are 7 instances of the word computer, no plural.
+Answer: there are 10 instances of the word computer, some are in all caps. Below the _i_ after the slash is intended to indicate "case insensitive", though this is indicated in various ways in different regex implementations.
 
-Regex: /[Cc]omputers?/
+Regex: /computers?/i
 
 Are there any web addresses in the text? How many?  
 
